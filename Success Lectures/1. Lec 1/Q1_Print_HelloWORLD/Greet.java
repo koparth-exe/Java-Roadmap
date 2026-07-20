@@ -1,6 +1,6 @@
 // WAP to print "Hello World"
 
-class greet
+class Greet
 {
     void main(String[] args)
     {

@@ -5,9 +5,9 @@ class Student
     int std, roll;
 }
 
-class Parth
+class parth
 {
-    void main (String[] args)
+    public static void main(String[] args)
     {
         Scanner sc = new Scanner(System.in);
         Student myCopy = new Student();
