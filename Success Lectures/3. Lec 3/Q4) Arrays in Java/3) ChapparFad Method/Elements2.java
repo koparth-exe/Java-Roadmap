@@ -12,11 +12,11 @@ class Elements2
 
         for(int i = 0;i < 5;i++)
         {
-            obj1.a[1] = 5;
+            obj1.a[i] = 5;
         }
         for(int i = 0;i < 5;i++)
         {
-            System.out.println(" ");
+            System.out.print(obj1.a[i]+" ");
         }
     }
 
