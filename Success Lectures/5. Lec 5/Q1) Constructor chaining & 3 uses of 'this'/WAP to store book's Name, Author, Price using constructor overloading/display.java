@@ -32,7 +32,5 @@ class display
         Book obj2 = new Book("Atomic Habits", "James Clear");
         System.out.print("\n");
         Book obj3 = new Book("Atomic Habits", "James Clear", 550);
-
-
     }
 }
