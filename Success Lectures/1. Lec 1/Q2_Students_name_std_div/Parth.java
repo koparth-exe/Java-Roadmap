@@ -4,7 +4,7 @@ class Template
     int std, roll;
 }
 
-class Parth
+class name
 {
     public static void main (String[] args)
     {
