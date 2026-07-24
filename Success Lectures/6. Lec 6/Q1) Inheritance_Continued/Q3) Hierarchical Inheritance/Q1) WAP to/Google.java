@@ -51,6 +51,7 @@ class Intern extends Employee
         months = sc.nextInt();
     }
 
+    @Override
     void display()
     {
         super.salary = stipend * months;
