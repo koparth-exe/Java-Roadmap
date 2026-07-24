@@ -14,7 +14,6 @@ class Employee
         salary = sc.nextDouble();
     }
 
-    @Override
     void display()
     {
         System.out.println("Name: "+name+"\nDept: "+dept+"\nSalary: "+salary);
