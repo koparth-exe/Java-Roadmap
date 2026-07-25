@@ -8,7 +8,7 @@ class Employee
 
     Employee()
     {
-        System.out.println("Enter Name, Dept, Salary: ");
+        System.out.println("\nEnter Name, Dept, Salary: ");
         name = sc.next();
         dept = sc.next();
         salary = sc.nextDouble();
@@ -23,11 +23,12 @@ class Employee
 class Manager extends Employee
 {
     int id;
+    double salary;
     Manager()
     {
-        System.out.println("Enter ID and Bonus: ");
+        System.out.println("Enter ID and Bonus Salary: ");
         id = sc.nextInt();
-        salary = sc.nextInt();
+        salary = sc.nextDouble();
     }
 
     @Override
@@ -46,7 +47,7 @@ class Intern extends Employee
     Intern()
     {
         System.out.println("Enter Stipend and Month: ");
-        stipend = sc.nextInt();
+        stipend = sc.nextDouble();
         months = sc.nextInt();
     }
 
