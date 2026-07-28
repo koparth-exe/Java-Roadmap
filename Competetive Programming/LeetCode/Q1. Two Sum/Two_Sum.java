@@ -27,4 +27,4 @@ class Solution
 //Runtime
 //68 ms Beats 5.91%
 //Memory
-//46.83 MB Beats 84.97%
+//46.83 MB Beats 84.97%.
