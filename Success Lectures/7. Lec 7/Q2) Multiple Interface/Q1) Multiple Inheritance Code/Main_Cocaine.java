@@ -2,6 +2,7 @@ interface MU
 {
     void Maths();
 }
+
 interface PU
 {
     void Maths();
