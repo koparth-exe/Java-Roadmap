@@ -16,4 +16,8 @@ class Array
 
 // In cmd,
 // javac Array.java
-// java Array Hello how are you
+// java Array Hello how are you?
+// Output:
+// Hello
+// are
+// You?
