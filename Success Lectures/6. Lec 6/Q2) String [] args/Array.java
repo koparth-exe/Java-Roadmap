@@ -19,5 +19,6 @@ class Array
 // java Array Hello how are you?
 // Output:
 // Hello
+// how
 // are
-// You?
+// you?
