@@ -43,3 +43,18 @@ class Count_Digit
         System.out.print(obj1.countDigits(num));
     }
 }
+
+//Problem Solved Successfully
+//Suggest Feedback
+//Test Cases Passed
+//1116 / 1116
+//Attempts : Correct / Total
+//1 / 1
+//Accuracy :
+//        100%
+//Points Scored
+//2 / 2
+//Your Total Score:
+//        2
+//Time Taken
+//0.12
