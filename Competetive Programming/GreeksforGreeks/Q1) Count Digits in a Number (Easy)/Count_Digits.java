@@ -9,7 +9,7 @@
 //        Output: 5
 //        Explanation: Number of digit in 99999 is 5
 //        Constraints:
-//        1 ≤ n ≤ 109
+//
 
 import java.util.Scanner;
 class Solution1 {
