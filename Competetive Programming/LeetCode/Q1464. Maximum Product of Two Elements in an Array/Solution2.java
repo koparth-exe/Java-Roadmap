@@ -7,7 +7,7 @@ class Solution {
     }
 }
 
-// Another better approach
+// Another better(Best) approach
 
 class Solution2 {
     public int maxProduct(int[] nums){
