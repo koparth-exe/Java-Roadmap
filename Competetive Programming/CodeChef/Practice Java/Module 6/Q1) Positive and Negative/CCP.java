@@ -14,7 +14,7 @@
 // Code:
 import java.util.Scanner;
 
-public class CCP6
+public class CCP
 {
     public static void main(String[] args)
     {
