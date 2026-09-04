@@ -2,7 +2,7 @@ interface Standard
 {
     void videoPlaying();
 }
-interface Premium
+interface Premium extends Standard
 {
     void adFree();
     void ytMusic();
