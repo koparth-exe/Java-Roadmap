@@ -102,6 +102,5 @@ class CCP34
         else {
             System.out.println("No");
         }
-
     }
 }
