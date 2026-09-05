@@ -153,6 +153,5 @@ class CCP38
             System.out.println((B - A) / X);
             i++;
         }
-
     }
 }
