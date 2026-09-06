@@ -117,9 +117,8 @@
 // Code:
 import java.util.*;
 import java.lang.*;
-import java.io.*;
 
-class Airline_Restrictions
+class CCP39
 {
     public static void main (String[] args) throws java.lang.Exception
     {
