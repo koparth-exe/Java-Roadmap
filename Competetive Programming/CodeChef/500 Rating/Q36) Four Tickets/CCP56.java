@@ -1,0 +1,2 @@
+public class CCP56 {
+}
