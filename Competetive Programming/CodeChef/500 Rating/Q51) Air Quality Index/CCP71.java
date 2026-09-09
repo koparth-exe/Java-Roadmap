@@ -76,6 +76,7 @@ class CCP71
         // your code goes here
         Scanner sc = new Scanner(System.in);
         int X = sc.nextInt();
+
         if (X < 100)
         {
             System.out.println("Yes");
