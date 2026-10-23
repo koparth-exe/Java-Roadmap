@@ -16,10 +16,9 @@ class Division1
             System.out.println(ans);
         }
 
-        // Method 1 (Among both the methods first defined method will execute)
         catch(ArithmeticException e)
         {
-            System.out.println(e.getMessage()); // It is pre-defined by java
+            System.out.println(e);
             return;
         }
         finally {

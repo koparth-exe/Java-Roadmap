@@ -30,7 +30,7 @@ class Division
         // Method 2 (To test 2nd method remove 1st method)
         catch (Exception e2) // Syntax: catch (Exception e)
         {
-            System.out.println(e2.toString()); // To get more detailed message about
+            System.out.println(e2.toString()); // To get more detailed message about, also you can just use 'e' instead of 'e.toString'.
             return;
         }
     }
