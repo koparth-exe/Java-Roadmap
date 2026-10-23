@@ -2,7 +2,7 @@ abstract class Kaleen
 {
     void mirzapur()
     {
-        System.out.println("I am king of Mirzaput");
+        System.out.println("I am king of Mirzapur");
     }
     abstract void johnpur();
 }
@@ -11,7 +11,7 @@ abstract class Munna extends Kaleen
 {
     void johnpur()
     {
-        System.out.println("I am King ofJohnpur");
+        System.out.println("I am King of Johnpur");
     }
     abstract void dholakpur();
 }
@@ -20,7 +20,7 @@ class Junna extends Munna
 {
     void dholakpur()
     {
-        System.out.println("I am King ofDholakpur");
+        System.out.println("I am King of Dholakpur");
     }
 }
 

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Q1) Cricket World Cup Qualifier" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Q10) Determine the Score" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Q11) 404 Not Found" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Q12) Off By One" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Q13) Donation Drive" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Q14) Kitchen Timings" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Q15) IPL Ticket Rush" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Q16)_Audible_Range" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Q17) Reach on Time" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Q18) Puzzle Hunt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Q19) Bone Appetit" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Q2) Lucky Seven" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Q20) Who is taller!" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Q21) Reach the Target" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Q22) Best of Two" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Q23) 2000" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Q24) Roller Coaster" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Q25) Candy Division" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Q26) Chef On Date" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Q27) Parity" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Q28) Total Prize Money" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Q29) Counting Words" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Q3) Clear Day" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Q30) Battery Health" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Q31) Tom and Jerry Chase" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Q32) Ageing" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Q33) Right There" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Q34) Second Max of Three Numbers" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Q35) Bull or Bear" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Q36) Four Tickets" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Q37) Chairs Requirement" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Q38) Chef and Donation" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Q39) Sum it" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Q4) Double Rent" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Q40) Get Subscription" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Q41) Messi vs Ronaldo" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Q42) Waiting Time" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Q43) Just One More Episode" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Q44) Rain in Chefland" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Q45) Bidding" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Q46) Overspeeding Fine" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Q47) Chess Time" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Q48) Passes for Fair" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Q49) Read Pages" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Q5) Saving Taxes" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Q50) Couple Game" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Q51) Air Quality Index" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Q52) Fever" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Q53) MATH1 Enrolment" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Q54) Chef and Chapters" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Q55) Lunchtime" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Q56) Time Complexity" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Q57) Interior Design" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Q6) Masterchef finals" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Q7) Biryani classes" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Q8) Chef Plays Ludo" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Q9) How many unattempted problems" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
