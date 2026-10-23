@@ -1,4 +1,4 @@
-abstract class Kaleen
+abstract class Kaleen // Abstract is Inheritance + Interface, but keyword used here is 'extends'.
 {
     void mirzapur()
     {
