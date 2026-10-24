@@ -19,7 +19,7 @@ class Division
             System.out.println(ans);
         }
 
-        // Method 1 (Among both the methods first defined method will execute)
+        // Method 1 (To handle / 0 error)
         catch(ArithmeticException e)
         {
             System.out.println("Division by zero, is not possible!");
@@ -27,7 +27,7 @@ class Division
             return;
         }
 
-        // Method 2 (To test 2nd method remove 1st method)
+        // Method 2 (To handle other errors)
         catch (Exception e2) // Syntax: catch (Exception e)
         {
             System.out.println(e2.toString()); // To get more detailed message about, also you can just use 'e' instead of 'e.toString'.
